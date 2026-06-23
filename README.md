@@ -4,8 +4,6 @@ A comprehensive financial analysis of 496 S&P 500 companies across 74 financial 
 
 The core finding: **momentum (RSI) explains 56% of short-term stock performance**, while all 9 fundamental financial ratios combined explain only 16% — empirically confirming the momentum factor documented by Jegadeesh & Titman (1993) on real market data.
 
-🔗 **[Live R Markdown Report](https://019ed049-e16b-38b4-7da3-6fb7936f2bba.share.connect.posit.cloud/)**
-
 ---
 
 ## Business Problem
